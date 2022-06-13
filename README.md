@@ -1,3 +1,3 @@
 # Reading Notes
 
-[Reading 1b](https://pages.github.com/) 
+[Reading 1b](https://25brian.github.io/Reading-notes-DV102/) 
