@@ -1,5 +1,7 @@
 # Reading Notes
+
 ### Growth Mindset 
+
 Growth Mindset is a way of thinking that contributes to growing and learning. It teaches one how to overcome obstacles and challenges and how to handle oneself when presented with them. It is a beneficial way of thinking that maximizes your time when it comes to learning new things.
 
 ### Tips to maintain Growth Mindset
