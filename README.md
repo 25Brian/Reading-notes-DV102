@@ -10,6 +10,7 @@ Growth Mindset is a way of thinking that contributes to growing and learning. It
 
 
 >In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “gumption trap” – the phenomenon of knowing what needs to be done, but lacking the motivation to do it. His solution is to stand up, put down whatever project is sucking the gumption out of you, walk away, and return when you’re feeling more inspired. 
+>- STEVE HAFFENDEN
 
 
 [Reading 1b](https://25brian.github.io/Reading-notes-DV102/reading.1b.md) 
