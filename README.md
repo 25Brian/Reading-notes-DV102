@@ -17,4 +17,7 @@ Growth Mindset is a way of thinking that contributes to growing and learning. It
 ## Reading Notes
 [Reading 1b](https://25brian.github.io/Reading-notes-DV102/reading.1b.md) 
 
+## Submissions
+[Submission 01](https://25brian.github.io/Reading-notes-DV102/read:01-submission.md)
+
 ![Growth Mindset](https://www.hopehighonline.org/wp-content/uploads/2019/07/Growth-Mindset-Illustration-01.jpg)
