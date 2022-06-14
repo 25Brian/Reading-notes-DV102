@@ -18,7 +18,7 @@ Growth Mindset is a way of thinking that contributes to growing and learning. It
 [Reading 1b](https://25brian.github.io/Reading-notes-DV102/reading.1b.md) 
 
 ## Submissions
-[Submission 01](https://25brian.github.io/Reading-notes-DV102/Read-01-submission.md)
+[Submission 01](https://25brian.github.io/Reading-notes-DV102/submission01.md)
 
 [Submission 02](https://25brian.github.io/Reading-notes-DV102/submission02.md)
 
