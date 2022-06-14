@@ -7,7 +7,7 @@ Git is a software built for coders that allows them to do code and work on their
 
 Inside of your git repository, you can store all of your past iterations of your code, current iteration, and also projects and files. To understand where things are, you must therefore be able to discern the anatomy of Git. In Git, your working directory is sort of like a table of contents, containing your indexes and files for your programs. Past that are your indexes, which is the area used for staging. The final piece of Github's anatomy is the head. The head is the newest iteration of your project.
 
- ! [anatomy of git] (https://blog.udemy.com/wp-content/uploads/2015/08/image036.png) 
+ ![anatomy of git](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
 ## Add, Commit, Push (ACP)
 
