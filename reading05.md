@@ -1,6 +1,6 @@
 # Introduction to CSS
 
-While HTML is the primary way to structure your website and is where the foundation of your website is, CSS provides the bells and whistles that make the website look good. CSS stands for Cascading Style Sheets and per its name, adds style and sophistication to the relatively lackluster HTML. CSS can change the colors of your background, add images and move them, as well as all types of formatting for a website. 
+While HTML is the primary way to structure your website and is where the foundation of your website is, CSS provides the bells and whistles that make the website look good. CSS stands for Cascading Style Sheets and per its name, adds style and sophistication to the relatively lackluster HTML. CSS can change the colors of your background, add images and move them, as well as all types of formatting for a website.
 
 ## How to use CSS
 
