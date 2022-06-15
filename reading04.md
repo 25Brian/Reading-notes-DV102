@@ -4,7 +4,7 @@ HTML (Hyper Text Markup Language) is a widely used markup language that can be f
 
 ## HTML Functions
 
-You can use HTML to create elements that in turn change your website so that it fits your needs. There are a large number of elements that you can use to do what you wish. From paragraphs, headers, links, to images. 
+You can use HTML to create elements that in turn change your website so that it fits your needs. There are a large number of elements that you can use to do what you wish. From paragraphs, headers, links, to images.
 
 ## Anatomy of an Element
 
